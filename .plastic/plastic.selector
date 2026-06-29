@@ -1,0 +1,4 @@
+repository "KakStrelyatb@Master_2024@cloud"
+  path "/"
+    br "/main"
+    co "/main"
